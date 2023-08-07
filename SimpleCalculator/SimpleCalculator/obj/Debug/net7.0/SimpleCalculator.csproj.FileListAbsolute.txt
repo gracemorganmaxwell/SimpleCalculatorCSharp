@@ -1,0 +1,15 @@
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/SimpleCalculator.csproj.AssemblyReference.cache
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/SimpleCalculator.AssemblyInfoInputs.cache
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/SimpleCalculator.AssemblyInfo.cs
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/SimpleCalculator.csproj.CoreCompileInputs.cache
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/bin/Debug/net7.0/SimpleCalculator
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/bin/Debug/net7.0/SimpleCalculator.deps.json
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/bin/Debug/net7.0/SimpleCalculator.runtimeconfig.json
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/bin/Debug/net7.0/SimpleCalculator.dll
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/bin/Debug/net7.0/SimpleCalculator.pdb
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/SimpleCalculator.dll
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/refint/SimpleCalculator.dll
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/SimpleCalculator.pdb
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/SimpleCalculator.genruntimeconfig.cache
+/Users/graceelizabethmorgan-maxwell/Projects/SimpleCalculator/SimpleCalculator/obj/Debug/net7.0/ref/SimpleCalculator.dll
